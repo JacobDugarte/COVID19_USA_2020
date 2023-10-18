@@ -1,0 +1,2 @@
+# COVID19_USA_2020
+This repository presents an in-depth data analysis of COVID-19 in the United States throughout the year 2020. Explore comprehensive insights, visualizations, and findings that shed light on the pandemic's impact, regional disparities, and the correlation between cases and fatalities. Gain valuable insights into the complex dynamics of the COVID-19 crisis in the United States through data-driven analysis and compelling visual representations."
